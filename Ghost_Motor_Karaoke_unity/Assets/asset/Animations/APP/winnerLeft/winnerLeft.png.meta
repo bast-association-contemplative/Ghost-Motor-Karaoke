@@ -1,0 +1,440 @@
+fileFormatVersion: 2
+guid: 69bba2313a22b4b34b4c5c7bef7948f3
+timeCreated: 1466063394
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: winnerLeft_0
+    21300002: winnerLeft_1
+    21300004: winnerLeft_2
+    21300006: winnerLeft_3
+    21300008: winnerLeft_4
+    21300010: winnerLeft_5
+    21300012: winnerLeft_6
+    21300014: winnerLeft_7
+    21300016: winnerLeft_8
+    21300018: winnerLeft_9
+    21300020: winnerLeft_10
+    21300022: winnerLeft_11
+    21300024: winnerLeft_12
+    21300026: winnerLeft_13
+    21300028: winnerLeft_14
+    21300030: winnerLeft_15
+    21300032: winnerLeft_16
+    21300034: winnerLeft_17
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 8192
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: winnerLeft_0
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 9498
+        width: 563
+        height: 268
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 68.473854, y: 56.519775}
+        - {x: -70.526146, y: 56.519775}
+        - {x: -104.526146, y: 55.519775}
+        - {x: -117.526146, y: 52.519775}
+        - {x: -117.526146, y: -30.480225}
+        - {x: -115.526146, y: -56.480225}
+        - {x: 117.473854, y: -56.480225}
+        - {x: 119.473854, y: -42.480225}
+        - {x: 119.473854, y: 52.519775}
+        - {x: 115.473854, y: 54.519775}
+    - name: winnerLeft_1
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 8943
+        width: 522
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 109.72876, y: 60.362793}
+        - {x: 0.72875977, y: 60.362793}
+        - {x: -40.27124, y: 56.362793}
+        - {x: -95.27124, y: 60.362793}
+        - {x: -107.27124, y: 60.362793}
+        - {x: -109.27124, y: 53.362793}
+        - {x: -109.27124, y: -35.637207}
+        - {x: -106.27124, y: -58.637207}
+        - {x: 109.72876, y: -58.637207}
+    - name: winnerLeft_2
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 8401
+        width: 530
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -67.526146, y: 58.1438}
+        - {x: -109.526146, y: 57.1438}
+        - {x: -110.526146, y: 51.1438}
+        - {x: -110.526146, y: -5.856201}
+        - {x: -105.526146, y: -54.8562}
+        - {x: -99.526146, y: -57.8562}
+        - {x: 95.473854, y: -57.8562}
+        - {x: 110.473854, y: -56.8562}
+        - {x: 112.473854, y: -55.8562}
+        - {x: 112.473854, y: 58.1438}
+    - name: winnerLeft_3
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 7856
+        width: 536
+        height: 274
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -111.36275, y: 57.66992}
+        - {x: -112.36275, y: 55.66992}
+        - {x: -112.36275, y: 7.669922}
+        - {x: -111.36275, y: -10.330078}
+        - {x: -112.36275, y: -11.330078}
+        - {x: -112.36275, y: -54.33008}
+        - {x: -110.36275, y: -57.33008}
+        - {x: 97.63725, y: -57.33008}
+        - {x: 112.63725, y: -56.33008}
+        - {x: 112.63725, y: 56.66992}
+        - {x: 110.63725, y: 57.66992}
+    - name: winnerLeft_4
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 7320
+        width: 536
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -97.27124, y: 57.960938}
+        - {x: -112.27124, y: 53.960938}
+        - {x: -112.27124, y: -42.039062}
+        - {x: -111.27124, y: -54.039062}
+        - {x: -109.27124, y: -56.039062}
+        - {x: 111.72876, y: -56.039062}
+        - {x: 112.72876, y: -54.039062}
+        - {x: 112.72876, y: 56.960938}
+        - {x: 103.72876, y: 57.960938}
+    - name: winnerLeft_5
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 6774
+        width: 546
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -114.27124, y: 56.568604}
+        - {x: -114.27124, y: 3.5686035}
+        - {x: -112.27124, y: -49.431396}
+        - {x: -110.27124, y: -52.431396}
+        - {x: -64.27124, y: -55.431396}
+        - {x: 90.72876, y: -55.431396}
+        - {x: 113.72876, y: -53.431396}
+        - {x: 114.72876, y: -44.431396}
+        - {x: 114.72876, y: 56.568604}
+    - name: winnerLeft_6
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 6234
+        width: 553
+        height: 268
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -73.77124, y: 57.18628}
+        - {x: -107.77124, y: 55.18628}
+        - {x: -115.77124, y: 51.18628}
+        - {x: -115.77124, y: 16.18628}
+        - {x: -110.77124, y: -49.81372}
+        - {x: -108.77124, y: -53.81372}
+        - {x: -20.77124, y: -55.81372}
+        - {x: 114.22876, y: -55.81372}
+        - {x: 116.22876, y: -36.81372}
+        - {x: 116.22876, y: 57.18628}
+    - name: winnerLeft_7
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 5690
+        width: 555
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -116.27124, y: 54.63086}
+        - {x: -116.27124, y: -19.36914}
+        - {x: -113.27124, y: -52.36914}
+        - {x: -113.27124, y: -54.36914}
+        - {x: -59.27124, y: -54.36914}
+        - {x: -51.27124, y: -53.36914}
+        - {x: -13.27124, y: -54.36914}
+        - {x: 115.72876, y: -54.36914}
+        - {x: 116.72876, y: -42.36914}
+        - {x: 116.72876, y: 54.63086}
+    - name: winnerLeft_8
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 5148
+        width: 555
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -88.27124, y: 55.411865}
+        - {x: -111.27124, y: 54.411865}
+        - {x: -116.27124, y: 54.411865}
+        - {x: -116.27124, y: -46.588135}
+        - {x: -115.27124, y: -53.588135}
+        - {x: -93.27124, y: -54.588135}
+        - {x: 116.72876, y: -54.588135}
+        - {x: 116.72876, y: 54.411865}
+        - {x: 100.72876, y: 55.411865}
+    - name: winnerLeft_9
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 4602
+        width: 560
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -105.27124, y: 55.519653}
+        - {x: -117.27124, y: 51.519653}
+        - {x: -117.27124, y: 21.519653}
+        - {x: -111.27124, y: -51.480347}
+        - {x: -108.27124, y: -54.480347}
+        - {x: -80.27124, y: -55.480347}
+        - {x: 117.72876, y: -55.480347}
+        - {x: 117.72876, y: 55.519653}
+    - name: winnerLeft_10
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 4057
+        width: 560
+        height: 267
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -114.27124, y: 56.045776}
+        - {x: -117.27124, y: 53.045776}
+        - {x: -117.27124, y: 5.0457764}
+        - {x: -113.27124, y: -48.954224}
+        - {x: -108.27124, y: -54.954224}
+        - {x: -97.27124, y: -55.954224}
+        - {x: 117.72876, y: -55.954224}
+        - {x: 117.72876, y: 54.045776}
+        - {x: 116.72876, y: 56.045776}
+    - name: winnerLeft_11
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 3517
+        width: 555
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 113.72876, y: 54.663452}
+        - {x: -114.27124, y: 54.663452}
+        - {x: -116.27124, y: 52.663452}
+        - {x: -116.27124, y: -11.336548}
+        - {x: -115.27124, y: -50.336548}
+        - {x: -110.27124, y: -53.336548}
+        - {x: -57.27124, y: -54.336548}
+        - {x: 115.72876, y: -54.336548}
+        - {x: 116.72876, y: -29.336548}
+        - {x: 116.72876, y: 53.663452}
+    - name: winnerLeft_12
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 2972
+        width: 555
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -113.27124, y: 55.189575}
+        - {x: -116.27124, y: 51.189575}
+        - {x: -116.27124, y: -36.810425}
+        - {x: -114.27124, y: -54.810425}
+        - {x: 115.72876, y: -54.810425}
+        - {x: 116.72876, y: -43.810425}
+        - {x: 116.72876, y: 55.189575}
+    - name: winnerLeft_13
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 2426
+        width: 553
+        height: 268
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 116.22876, y: 54.297424}
+        - {x: 115.22876, y: 57.297424}
+        - {x: -113.77124, y: 57.297424}
+        - {x: -115.77124, y: 54.297424}
+        - {x: -115.77124, y: 15.297424}
+        - {x: -110.77124, y: -49.702576}
+        - {x: -108.77124, y: -53.702576}
+        - {x: -42.77124, y: -55.702576}
+        - {x: 75.22876, y: -55.702576}
+        - {x: 110.22876, y: -52.702576}
+        - {x: 113.22876, y: -50.702576}
+        - {x: 116.22876, y: 32.297424}
+    - name: winnerLeft_14
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 1878
+        width: 546
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -114.27124, y: 56.568665}
+        - {x: -114.27124, y: 3.5686646}
+        - {x: -112.27124, y: -49.431335}
+        - {x: -110.27124, y: -52.431335}
+        - {x: -64.27124, y: -55.431335}
+        - {x: 90.72876, y: -55.431335}
+        - {x: 113.72876, y: -53.431335}
+        - {x: 114.72876, y: -44.431335}
+        - {x: 114.72876, y: 56.568665}
+    - name: winnerLeft_15
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 1336
+        width: 536
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 105.72876, y: 57.84967}
+        - {x: -91.27124, y: 57.84967}
+        - {x: -112.27124, y: 54.84967}
+        - {x: -112.27124, y: -46.15033}
+        - {x: -111.27124, y: -54.15033}
+        - {x: -110.27124, y: -56.15033}
+        - {x: 78.72876, y: -56.15033}
+        - {x: 112.72876, y: -53.15033}
+        - {x: 112.72876, y: 56.84967}
+    - name: winnerLeft_16
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 783
+        width: 536
+        height: 271
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -112.36275, y: 57.52942}
+        - {x: -112.36275, y: 4.529419}
+        - {x: -108.36275, y: -54.47058}
+        - {x: -108.36275, y: -56.47058}
+        - {x: 69.63725, y: -56.47058}
+        - {x: 112.63725, y: -52.47058}
+        - {x: 112.63725, y: 57.52942}
+    - name: winnerLeft_17
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 241
+        width: 530
+        height: 276
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -109.526146, y: 59.310455}
+        - {x: -110.526146, y: 54.310455}
+        - {x: -110.526146, y: 23.310455}
+        - {x: -107.526146, y: -55.689545}
+        - {x: -67.526146, y: -57.689545}
+        - {x: 80.473854, y: -57.689545}
+        - {x: 111.473854, y: -56.689545}
+        - {x: 112.473854, y: -55.689545}
+        - {x: 112.473854, y: 59.310455}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,243 @@
+fileFormatVersion: 2
+guid: f65ad4d99c6954839bfde7cfbd96adab
+timeCreated: 1464876697
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: perso_0
+    21300002: perso_1
+    21300004: perso_2
+    21300006: perso_3
+    21300008: perso_4
+    21300010: perso_5
+    21300012: perso_6
+    21300014: perso_7
+    21300016: perso_8
+    21300018: perso_9
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 300
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: perso_0
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 9838
+        width: 422
+        height: 669
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25.014587, y: 63.62085}
+        - {x: -40.014587, y: 26.62085}
+        - {x: -40.014587, y: -63.37915}
+        - {x: 40.985413, y: -63.37915}
+        - {x: 40.985413, y: 57.62085}
+        - {x: 32.985413, y: 63.62085}
+    - name: perso_1
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 8757
+        width: 396
+        height: 675
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 35.46666, y: 61.681274}
+        - {x: 21.46666, y: 64.681274}
+        - {x: -26.53334, y: 64.681274}
+        - {x: -37.53334, y: 59.681274}
+        - {x: -37.53334, y: -64.318726}
+        - {x: 36.46666, y: -64.318726}
+        - {x: 37.46666, y: -48.318726}
+        - {x: 38.46666, y: -43.318726}
+        - {x: 38.46666, y: 43.681274}
+    - name: perso_2
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 7675
+        width: 396
+        height: 681
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32.53334, y: 65.052124}
+        - {x: -37.53334, y: 29.052124}
+        - {x: -37.53334, y: -64.947876}
+        - {x: 38.46666, y: -64.947876}
+        - {x: 38.46666, y: 57.052124}
+        - {x: 25.46666, y: 65.052124}
+    - name: perso_3
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 6594
+        width: 390
+        height: 670
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 38.018753, y: 59.112427}
+        - {x: 31.018753, y: 64.11243}
+        - {x: -17.981247, y: 64.11243}
+        - {x: -36.981247, y: 55.112427}
+        - {x: -36.981247, y: -61.887573}
+        - {x: -31.981247, y: -63.887573}
+        - {x: 30.018753, y: -63.887573}
+        - {x: 32.018753, y: -62.887573}
+        - {x: 38.018753, y: -56.887573}
+    - name: perso_4
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 5513
+        width: 385
+        height: 654
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -36.481247, y: 62.67285}
+        - {x: -36.481247, y: -60.32715}
+        - {x: -32.481247, y: -62.32715}
+        - {x: 37.518753, y: -62.32715}
+        - {x: 37.518753, y: 42.67285}
+        - {x: 18.518753, y: 62.67285}
+    - name: perso_5
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 4438
+        width: 374
+        height: 653
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31.429169, y: 62.87085}
+        - {x: -35.42917, y: 56.87085}
+        - {x: -35.42917, y: -62.12915}
+        - {x: 36.57083, y: -62.12915}
+        - {x: 36.57083, y: 52.87085}
+        - {x: 35.57083, y: 62.87085}
+    - name: perso_6
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 3352
+        width: 375
+        height: 653
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24.53334, y: 62.983337}
+        - {x: -35.53334, y: 52.983337}
+        - {x: -35.53334, y: -61.016663}
+        - {x: -32.53334, y: -62.016663}
+        - {x: 33.46666, y: -62.016663}
+        - {x: 36.46666, y: -56.016663}
+        - {x: 36.46666, y: 62.983337}
+    - name: perso_7
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 2275
+        width: 374
+        height: 654
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -35.42917, y: 62.802094}
+        - {x: -35.42917, y: -62.197906}
+        - {x: 36.57083, y: -62.197906}
+        - {x: 36.57083, y: 62.802094}
+    - name: perso_8
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 1194
+        width: 385
+        height: 654
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -36.481247, y: -62.137497}
+        - {x: 37.518753, y: -62.137497}
+        - {x: 37.518753, y: 42.862503}
+        - {x: 36.518753, y: 54.862503}
+        - {x: 19.518753, y: 62.862503}
+        - {x: -29.481247, y: 62.862503}
+        - {x: -36.481247, y: 61.862503}
+    - name: perso_9
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 113
+        width: 390
+        height: 670
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 38.018753, y: 64.42291}
+        - {x: -19.981247, y: 64.42291}
+        - {x: -36.981247, y: 42.422916}
+        - {x: -36.981247, y: -60.577084}
+        - {x: -29.981247, y: -63.577084}
+        - {x: 38.018753, y: -63.577084}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{F602EE33-224C-280D-98DB-E5AD71C67DA3}") = "Ghost_Motor_Karaoke_unity", "Assembly-CSharp-firstpass.csproj", "{BC439634-7233-5BC1-E155-39A8E441C064}"
+EndProject
+Project("{F602EE33-224C-280D-98DB-E5AD71C67DA3}") = "Ghost_Motor_Karaoke_unity", "Assembly-CSharp.csproj", "{544FD68E-5C3D-4E3D-D5DC-73BD76C2C95D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BC439634-7233-5BC1-E155-39A8E441C064}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC439634-7233-5BC1-E155-39A8E441C064}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC439634-7233-5BC1-E155-39A8E441C064}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC439634-7233-5BC1-E155-39A8E441C064}.Release|Any CPU.Build.0 = Release|Any CPU
+		{544FD68E-5C3D-4E3D-D5DC-73BD76C2C95D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{544FD68E-5C3D-4E3D-D5DC-73BD76C2C95D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{544FD68E-5C3D-4E3D-D5DC-73BD76C2C95D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{544FD68E-5C3D-4E3D-D5DC-73BD76C2C95D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
