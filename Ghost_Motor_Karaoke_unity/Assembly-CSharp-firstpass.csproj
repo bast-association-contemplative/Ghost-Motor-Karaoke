@@ -47,7 +47,12 @@
   <ItemGroup>
      <Compile Include="Assets\Plugins\Osc.cs" />
      <Compile Include="Assets\Plugins\UDPPacketIO.cs" />
+     <Compile Include="Assets\Standard Assets\Background.cs" />
      <Compile Include="Assets\Standard Assets\Ghost.cs" />
+     <Compile Include="Assets\Standard Assets\Player0.cs" />
+     <Compile Include="Assets\Standard Assets\Player1.cs" />
+     <Compile Include="Assets\Standard Assets\Player_life.cs" />
+     <Compile Include="Assets\Standard Assets\Reset.cs" />
  <Reference Include="UnityEngine.UI">
  <HintPath>/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>

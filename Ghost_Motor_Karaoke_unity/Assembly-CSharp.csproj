@@ -45,12 +45,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\asset\Script\Background.cs" />
-     <Compile Include="Assets\asset\Script\Micro.cs" />
-     <Compile Include="Assets\asset\Script\Player0.cs" />
-     <Compile Include="Assets\asset\Script\Player1.cs" />
-     <Compile Include="Assets\asset\Script\Player_life.cs" />
-     <Compile Include="Assets\asset\Script\Reset.cs" />
+     <Compile Include="Assets\asset\Script\Micro_Deprecated.cs" />
  <Reference Include="UnityEngine.UI">
  <HintPath>/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>
