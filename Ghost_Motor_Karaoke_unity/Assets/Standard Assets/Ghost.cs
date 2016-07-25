@@ -8,7 +8,7 @@ public class Ghost : MonoBehaviour {
 	private Animator animator;
 
 	public AudioClip[] impactSound;
-	AudioSource audio;
+	new AudioSource audio;
 
 	public int CollidePlayer0 = 0;
 	public int CollidePlayer1 = 0;
@@ -22,9 +22,9 @@ public class Ghost : MonoBehaviour {
 	}
 
 	void Update () {
-		if(Input.GetKey("f")){
+		if(Input.GetKey(KeyCode.LeftArrow)){
 			move(-0.1f, 0.5f);
-		} else if(Input.GetKey("b")){
+		} else if(Input.GetKey(KeyCode.RightArrow)){
 			move(0.1f, -0.5f);
 		}
 	}

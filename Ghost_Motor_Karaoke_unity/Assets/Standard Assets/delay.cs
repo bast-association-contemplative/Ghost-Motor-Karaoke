@@ -5,20 +5,17 @@ using System.Collections;
 
 public class delay : MonoBehaviour {
 
-	AudioSource audio;
+	new AudioSource audio;
 
 	public AudioClip engineStartClip;
 	public AudioClip engineLoopClip;
 
-	void Start()
-	{
+	void Start(){
 		audio = GetComponent<AudioSource> ();
-		//audio.loop = true;
 		StartCoroutine(playEngineSound());
 	}
 
-	IEnumerator playEngineSound()
-	{
+	IEnumerator playEngineSound(){
 		audio.clip = engineStartClip;
 		audio.Play();
 		yield return new WaitForSeconds(audio.clip.length);
@@ -27,7 +24,5 @@ public class delay : MonoBehaviour {
 	}
 
 	void Update(){
-
 	}
-
 }

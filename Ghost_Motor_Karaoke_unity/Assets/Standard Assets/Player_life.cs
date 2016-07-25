@@ -6,7 +6,7 @@ public class Player_life : MonoBehaviour {
 	public int lifeSate = 3;
 
 	public GameObject win;
-	AudioSource audio;
+	new AudioSource audio;
 
 	void Start () {
 		win.GetComponent<Renderer>().enabled = false;
@@ -14,9 +14,6 @@ public class Player_life : MonoBehaviour {
 	}
 	
 	void Update () {
-		if( Input.GetKeyDown("l") ){
-			life();
-		}
 	}
 
 	public void life(){

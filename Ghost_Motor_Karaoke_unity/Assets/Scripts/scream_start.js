@@ -1,4 +1,5 @@
 #pragma strict
+import UnityEngine.SceneManagement;
 
 private var UDPHost : String = "127.0.0.1";
 private var listenerPort : int = 8000;
@@ -24,9 +25,10 @@ function Update () {
 	Debug.Log(OpenBCIEvent);
 
 	if(OpenBCIEvent > 50){
-		Application.LoadLevel ("motor Karaoke");
+		//Application.LoadLevel ("motor Karaoke");
+		 SceneManager.LoadScene("motor Karaoke");
 	} else if(OpenBCIEvent < -50){
-		Application.LoadLevel ("motor Karaoke");
+		SceneManager.LoadScene("motor Karaoke");
 	}
 }	
 

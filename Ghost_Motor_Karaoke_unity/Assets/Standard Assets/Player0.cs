@@ -3,39 +3,33 @@ using System.Collections;
 
 public class Player0 : MonoBehaviour {
 
-	private Animator animator;                  //Used to store a reference to the Player's animator component.
+	//THIS GAMEOBJECT
+	private Animator animator;
 	GameObject playerlife;
 
+	//PLAYER 1 GAMEOBJECT
 	public GameObject player1;
-	GameObject player1life;
 	Animator player1Animator;
 
+	//COUNT DOWN
 	public Transform Intro;
 
+	//COLLIDER COUNTER
 	private int collide = 0;
 
+	//IMPACT ANIMATION ARRAY
 	string[] arr = new string[]{"impact1","impact2","impact3","impact4","impact5","impact6"};
 
 	void Start () {
 		animator = GetComponent<Animator>();
 		player1Animator = player1.GetComponent<Animator> ();
-		player1life = player1.transform.Find("vie").gameObject;
 	}
 	
 	void Update () {
-		if(Input.GetKeyDown("z")){
-			animator.SetTrigger ("impact1");
-		} else if(Input.GetKeyDown("a")){
-			animator.SetTrigger ("persoHit1");
-			player1Animator.SetTrigger ("impact3");
-			player1life.GetComponent<Player_life>().life();
-		}
-
 		if(collide >= 4){
 			player1Animator.SetTrigger ("win02");
 			animator.SetTrigger ("eat2");
 		}
-
 	}
 
 	void OnCollisionEnter2D(Collision2D other) {
