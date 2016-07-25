@@ -1,0 +1,415 @@
+fileFormatVersion: 2
+guid: a97098d8a295d4cc2988b1742ae7e8c2
+timeCreated: 1469422749
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: loser_0
+    21300002: loser_1
+    21300004: loser_2
+    21300006: loser_3
+    21300008: loser_4
+    21300010: loser_5
+    21300012: loser_6
+    21300014: loser_7
+    21300016: loser_8
+    21300018: loser_9
+    21300020: loser_10
+    21300022: loser_11
+    21300024: loser_12
+    21300026: loser_13
+    21300028: loser_14
+    21300030: loser_15
+    21300032: loser_16
+    21300034: loser_17
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 300
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: loser_0
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 14934
+        width: 369
+        height: 578
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 33.515575, y: -36.87036}
+        - {x: 38.515575, y: -40.87036}
+        - {x: 42.515575, y: -41.87036}
+        - {x: 48.515575, y: -34.87036}
+        - {x: 49.515575, y: -29.870361}
+        - {x: 49.515575, y: 43.12964}
+        - {x: 31.515575, y: 74.12964}
+        - {x: 20.515575, y: 77.12964}
+        - {x: -25.484425, y: 77.12964}
+        - {x: -47.484425, y: 67.12964}
+        - {x: -48.484425, y: 59.12964}
+        - {x: -48.484425, y: -75.87036}
+        - {x: 46.515575, y: -75.87036}
+        - {x: 49.515575, y: -73.87036}
+        - {x: 49.515575, y: -54.87036}
+        - {x: 34.515575, y: -40.87036}
+        - {x: 33.515575, y: -34.87036}
+    - name: loser_1
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 14069
+        width: 301
+        height: 523
+      alignment: 9
+      pivot: {x: 0.4999997, y: 0.52494997}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 40.329468, y: -44.88501}
+        - {x: 40.329468, y: 65.11499}
+        - {x: 35.329468, y: 66.11499}
+        - {x: -15.670532, y: 66.11499}
+        - {x: -39.670532, y: 47.11499}
+        - {x: -39.670532, y: -71.88501}
+        - {x: 39.329468, y: -71.88501}
+        - {x: 40.329468, y: -70.88501}
+        - {x: 40.329468, y: -59.88501}
+        - {x: 39.329468, y: -57.88501}
+    - name: loser_2
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 13202
+        width: 298
+        height: 453
+      alignment: 9
+      pivot: {x: 0.4999998, y: 0.58641607}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.13234, y: 50.649902}
+        - {x: -39.13234, y: 25.649902}
+        - {x: -39.13234, y: -69.3501}
+        - {x: 38.86766, y: -69.3501}
+        - {x: 39.86766, y: -59.350098}
+        - {x: 39.86766, y: 50.649902}
+    - name: loser_3
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 12341
+        width: 236
+        height: 390
+      alignment: 9
+      pivot: {x: 0.49999988, y: 0.65613735}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24.106075, y: 36.90161}
+        - {x: -31.106075, y: 3.9016113}
+        - {x: -31.106075, y: -67.09839}
+        - {x: 22.893925, y: -67.09839}
+        - {x: 31.893925, y: -64.09839}
+        - {x: 31.893925, y: 30.901611}
+        - {x: 25.893925, y: 36.90161}
+    - name: loser_4
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 11479
+        width: 240
+        height: 293
+      alignment: 9
+      pivot: {x: 0.49999988, y: 0.8265852}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.644276, y: 14.465576}
+        - {x: -31.644276, y: -23.534424}
+        - {x: -31.644276, y: -63.534424}
+        - {x: 28.355724, y: -63.534424}
+        - {x: 32.355724, y: -59.534424}
+        - {x: 32.355724, y: 14.465576}
+    - name: loser_5
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 10606
+        width: 220
+        height: 317
+      alignment: 9
+      pivot: {x: 0.49999958, y: 0.9184894}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2.9938889, y: 7.5703125}
+        - {x: -25.993889, y: -3.4296875}
+        - {x: -28.993889, y: -31.429688}
+        - {x: -28.993889, y: -76.42969}
+        - {x: 30.006111, y: -76.42969}
+        - {x: 30.006111, y: 7.5703125}
+    - name: loser_6
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 9739
+        width: 220
+        height: 315
+      alignment: 9
+      pivot: {x: 0.49999958, y: 0.9418558}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.993889, y: 6.2438965}
+        - {x: -27.993889, y: -20.756104}
+        - {x: -28.993889, y: -30.756104}
+        - {x: -28.993889, y: -73.7561}
+        - {x: -22.993889, y: -77.7561}
+        - {x: 13.006111, y: -77.7561}
+        - {x: 20.006111, y: -76.7561}
+        - {x: 26.006111, y: -73.7561}
+        - {x: 30.006111, y: -67.7561}
+        - {x: 30.006111, y: 6.2438965}
+    - name: loser_7
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 8882
+        width: 201
+        height: 300
+      alignment: 9
+      pivot: {x: 0.4999997, y: 0.9349544}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.443775, y: 6.5388184}
+        - {x: -24.443775, y: -24.461182}
+        - {x: -26.443775, y: -35.46118}
+        - {x: -26.443775, y: -72.46118}
+        - {x: -23.443775, y: -73.46118}
+        - {x: 27.556225, y: -73.46118}
+        - {x: 27.556225, y: 1.5388184}
+        - {x: 26.556225, y: 6.5388184}
+    - name: loser_8
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 8013
+        width: 201
+        height: 302
+      alignment: 9
+      pivot: {x: 0.4891801, y: 0.99688274}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.872837, y: 1.2614746}
+        - {x: -25.872837, y: -26.738525}
+        - {x: -25.872837, y: -78.738525}
+        - {x: 26.127163, y: -78.738525}
+        - {x: 28.127163, y: -62.738525}
+        - {x: 28.127163, y: 1.2614746}
+    - name: loser_9
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 7152
+        width: 205
+        height: 302
+      alignment: 9
+      pivot: {x: 0.5, y: 0.96807903}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1.9939117, y: 3.5064697}
+        - {x: -25.993912, y: -7.4935303}
+        - {x: -26.993912, y: -27.49353}
+        - {x: -26.993912, y: -74.49353}
+        - {x: -22.993912, y: -76.49353}
+        - {x: 25.006088, y: -76.49353}
+        - {x: 28.006088, y: -71.49353}
+        - {x: 28.006088, y: 3.5064697}
+    - name: loser_10
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 6285
+        width: 205
+        height: 303
+      alignment: 9
+      pivot: {x: 0.5, y: 0.9880669}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.993912, y: 1.1796875}
+        - {x: -26.993912, y: -9.8203125}
+        - {x: -26.993912, y: -78.82031}
+        - {x: 28.006088, y: -78.82031}
+        - {x: 28.006088, y: 1.1796875}
+    - name: loser_11
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 5418
+        width: 198
+        height: 309
+      alignment: 9
+      pivot: {x: 0.5109837, y: 0.9926647}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.5648575, y: 1.4240723}
+        - {x: -21.564857, y: -3.5759277}
+        - {x: -26.564857, y: -42.575928}
+        - {x: -26.564857, y: -80.57593}
+        - {x: 26.435143, y: -80.57593}
+        - {x: 26.435143, y: 0.42407227}
+        - {x: 23.435143, y: 1.4240723}
+    - name: loser_12
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 4550
+        width: 198
+        height: 308
+      alignment: 9
+      pivot: {x: 0.52196723, y: 0.9942643}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.135788, y: 1.5476074}
+        - {x: -20.135788, y: -8.452393}
+        - {x: -27.135788, y: -44.452393}
+        - {x: -27.135788, y: -78.45239}
+        - {x: -26.135788, y: -80.45239}
+        - {x: 25.864212, y: -80.45239}
+        - {x: 25.864212, y: 0.5476074}
+        - {x: 22.864212, y: 1.5476074}
+    - name: loser_13
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 3685
+        width: 197
+        height: 286
+      alignment: 9
+      pivot: {x: 0.48896068, y: 0.9942644}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.372852, y: 1.3134766}
+        - {x: -24.372852, y: -10.686523}
+        - {x: -25.372852, y: -28.686523}
+        - {x: -25.372852, y: -74.68652}
+        - {x: 27.627148, y: -74.68652}
+        - {x: 27.627148, y: 1.3134766}
+    - name: loser_14
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 2822
+        width: 197
+        height: 288
+      alignment: 9
+      pivot: {x: 0.5, y: 0.9983834}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 27.05621, y: -2.321228}
+        - {x: 26.05621, y: 1.678772}
+        - {x: -7.9437904, y: 1.678772}
+        - {x: -25.94379, y: -8.321228}
+        - {x: -25.94379, y: -75.32123}
+        - {x: 20.05621, y: -75.32123}
+        - {x: 24.05621, y: -70.32123}
+        - {x: 23.05621, y: -59.321228}
+        - {x: 27.05621, y: -42.321228}
+    - name: loser_15
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 1954
+        width: 178
+        height: 289
+      alignment: 9
+      pivot: {x: 0.49999982, y: 1.0041841}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.505825, y: 1.2314453}
+        - {x: -23.505825, y: -5.7685547}
+        - {x: -23.505825, y: -75.768555}
+        - {x: 23.494175, y: -75.768555}
+        - {x: 24.494175, y: -72.768555}
+        - {x: 24.494175, y: 1.2314453}
+    - name: loser_16
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 1088
+        width: 178
+        height: 291
+      alignment: 9
+      pivot: {x: 0.49999982, y: 0.9932454}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0.49417496, y: 1.9509583}
+        - {x: -14.505825, y: -4.0490417}
+        - {x: -23.505825, y: -17.049042}
+        - {x: -21.505825, y: -24.049042}
+        - {x: -23.505825, y: -39.04904}
+        - {x: -23.505825, y: -76.04904}
+        - {x: 24.494175, y: -76.04904}
+        - {x: 24.494175, y: -1.0490417}
+        - {x: 23.494175, y: 1.9509583}
+    - name: loser_17
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 221
+        width: 188
+        height: 288
+      alignment: 9
+      pivot: {x: 0.49999967, y: 0.99486434}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5.5810013, y: 0.60313416}
+        - {x: -24.581001, y: -19.396866}
+        - {x: -24.581001, y: -74.396866}
+        - {x: -23.581001, y: -75.396866}
+        - {x: 19.418999, y: -75.396866}
+        - {x: 21.418999, y: -74.396866}
+        - {x: 26.418999, y: -47.396866}
+        - {x: 26.418999, y: 0.60313416}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

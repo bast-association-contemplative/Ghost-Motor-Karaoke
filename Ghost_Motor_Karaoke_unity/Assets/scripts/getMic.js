@@ -76,9 +76,9 @@ function Update () {
 
 	//if(player0life.lifeSate > 0 && player1life.lifeSate > 0){
 		if(OpenBCIEvent > 10){
-			ghost_script.move(0.1f);
+			ghost_script.move(0.1f, -0.5f);
 		} else if(OpenBCIEvent < -10){
-			ghost_script.move(-0.1f);
+			ghost_script.move(-0.1f, 0.5f);
 		}
 	//}
 }	

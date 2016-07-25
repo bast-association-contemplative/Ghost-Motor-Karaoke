@@ -13,21 +13,22 @@ public class Player1 : MonoBehaviour {
 	public GameObject ghost;
 	Animator ghostAnimator;
 
-	// Use this for initialization
+	public Transform Intro;
+
+	private int collide = 0;
+
+	string[] arr = new string[]{"impact1","impact2","impact3","impact4","impact5","impact6"};
+
 	void Start () {
 	
-		//Get a component reference to the Player's animator component
 		thisPlayerAnimator = GetComponent<Animator>();
 
 		player0Animator = player0.GetComponent<Animator> ();
 		player0life = player0.transform.Find("vie").gameObject;
 
 		ghostAnimator = ghost.GetComponent<Animator> ();
-
-
 	}
 	
-	// Update is called once per frame
 	void Update () {
 		if(Input.GetKeyDown("p")){
 			thisPlayerAnimator.SetTrigger ("impact3");
@@ -35,13 +36,27 @@ public class Player1 : MonoBehaviour {
 			thisPlayerAnimator.SetTrigger ("persoHit3");
 			player0Animator.SetTrigger ("impact1");
 			ghostAnimator.SetTrigger ("ghostForward");
-			ghost.GetComponent<Ghost>().move(-1f);
+			ghost.GetComponent<Ghost>().move(-1f, 0.5f);
 			player0life.GetComponent<Player_life>().life();
+		}
+
+		if(collide >= 4){
+			player0Animator.SetTrigger ("win01");
+			thisPlayerAnimator.SetTrigger ("lose");
 		}
 	}
 
 	void OnCollisionEnter2D(Collision2D other) {
 		playerlife = this.transform.Find ("vie").gameObject;
 		playerlife.GetComponent<Player_life> ().life ();
+		collide++;
+
+		Destroy(GameObject.Find("Engine_Sound"), 0);
+		Destroy(GameObject.Find("Engine_Sound(Clone)"), 0);
+
+		if (collide < 4) {
+			Instantiate(Intro);
+			thisPlayerAnimator.SetTrigger (arr[Random.Range(0, arr.Length)]);
+		}
 	}
 }

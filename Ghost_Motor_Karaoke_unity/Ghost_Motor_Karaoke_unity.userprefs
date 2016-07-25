@@ -1,13 +1,10 @@
 ﻿<Properties StartupItem="Assembly-CSharp.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/getMic.js">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Standard Assets/Ghost.cs">
     <Files>
-      <File FileName="Assets/Scripts/getMic.js" Line="86" Column="41" />
-      <File FileName="Assets/Standard Assets/Ghost.cs" Line="11" Column="1" />
-      <File FileName="Assets/Standard Assets/Player0.cs" Line="12" Column="2" />
-      <File FileName="Assets/asset/Script/Micro_Deprecated.cs" Line="57" Column="5" />
-      <File FileName="Assets/Plugins/Osc.cs" Line="229" Column="9" />
-      <File FileName="Assets/Standard Assets/Player_life.cs" Line="9" Column="2" />
+      <File FileName="Assets/Standard Assets/Player1.cs" Line="31" Column="1" />
+      <File FileName="Assets/Standard Assets/Player0.cs" Line="20" Column="2" />
+      <File FileName="Assets/Standard Assets/Ghost.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

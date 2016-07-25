@@ -10,16 +10,18 @@ public class Player0 : MonoBehaviour {
 	GameObject player1life;
 	Animator player1Animator;
 
-	// Use this for initialization
+	public Transform Intro;
+
+	private int collide = 0;
+
+	string[] arr = new string[]{"impact1","impact2","impact3","impact4","impact5","impact6"};
+
 	void Start () {
-	
-		//Get a component reference to the Player's animator component
 		animator = GetComponent<Animator>();
 		player1Animator = player1.GetComponent<Animator> ();
 		player1life = player1.transform.Find("vie").gameObject;
 	}
 	
-	// Update is called once per frame
 	void Update () {
 		if(Input.GetKeyDown("z")){
 			animator.SetTrigger ("impact1");
@@ -28,11 +30,25 @@ public class Player0 : MonoBehaviour {
 			player1Animator.SetTrigger ("impact3");
 			player1life.GetComponent<Player_life>().life();
 		}
+
+		if(collide >= 4){
+			player1Animator.SetTrigger ("win02");
+			animator.SetTrigger ("lose");
+		}
+
 	}
 
 	void OnCollisionEnter2D(Collision2D other) {
-
 		playerlife = this.transform.Find ("vie").gameObject;
 		playerlife.GetComponent<Player_life> ().life ();
+		collide++;
+
+		Destroy(GameObject.Find("Engine_Sound"), 0);
+		Destroy(GameObject.Find("Engine_Sound(Clone)"), 0);
+
+		if (collide < 4) {
+			Instantiate(Intro);
+			animator.SetTrigger (arr[Random.Range(0, arr.Length)]);
+		}
 	}
 }

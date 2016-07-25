@@ -1,0 +1,470 @@
+fileFormatVersion: 2
+guid: 3099722dd587046ee9cbdba36456c040
+timeCreated: 1469433573
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: impact06_0
+    21300002: impact06_1
+    21300004: impact06_2
+    21300006: impact06_3
+    21300008: impact06_4
+    21300010: impact06_5
+    21300012: impact06_6
+    21300014: impact06_7
+    21300016: impact06_8
+    21300018: impact06_9
+    21300020: impact06_10
+    21300022: impact06_11
+    21300024: impact06_12
+    21300026: impact06_13
+    21300028: impact06_14
+    21300030: impact06_15
+    21300032: impact06_16
+    21300034: impact06_17
+    21300036: impact06_18
+    21300038: impact06_19
+    21300040: impact06_20
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 280
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: impact06_0
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 14251
+        width: 379
+        height: 590
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 30.043465, y: 81.473145}
+        - {x: -51.956535, y: 81.473145}
+        - {x: -51.956535, y: -80.526855}
+        - {x: 53.043465, y: -80.526855}
+        - {x: 53.043465, y: 47.473145}
+        - {x: 49.043465, y: 61.473145}
+    - name: impact06_1
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 13355
+        width: 439
+        height: 621
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4.0322685, y: 86.30542}
+        - {x: -45.96773, y: 86.30542}
+        - {x: -59.96773, y: 76.30542}
+        - {x: -59.96773, y: -31.69458}
+        - {x: -43.96773, y: -84.69458}
+        - {x: 47.03227, y: -84.69458}
+        - {x: 48.03227, y: -81.69458}
+        - {x: 61.03227, y: -53.69458}
+        - {x: 61.03227, y: 4.30542}
+    - name: impact06_2
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 12473
+        width: 439
+        height: 621
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.9677315, y: 86.46045}
+        - {x: -57.96773, y: 86.46045}
+        - {x: -59.96773, y: 78.46045}
+        - {x: -59.96773, y: -17.53955}
+        - {x: -34.96773, y: -84.53955}
+        - {x: 61.03227, y: -84.53955}
+        - {x: 61.03227, y: -1.5395508}
+        - {x: 8.032269, y: 81.46045}
+    - name: impact06_3
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 11713
+        width: 564
+        height: 330
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 76.987465, y: 45.92993}
+        - {x: -74.012535, y: 45.92993}
+        - {x: -77.012535, y: 34.92993}
+        - {x: -77.012535, y: -38.07007}
+        - {x: -58.012535, y: -45.07007}
+        - {x: 72.987465, y: -45.07007}
+        - {x: 77.987465, y: -32.07007}
+        - {x: 77.987465, y: 41.92993}
+    - name: impact06_4
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 11585
+        width: 387
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: impact06_5
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 10831
+        width: 564
+        height: 329
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -77.012535, y: 46.085205}
+        - {x: -77.012535, y: -31.914795}
+        - {x: -66.012535, y: -44.914795}
+        - {x: 77.987465, y: -44.914795}
+        - {x: 77.987465, y: 46.085205}
+    - name: impact06_6
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 10703
+        width: 387
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: impact06_7
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 9816
+        width: 377
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: impact06_8
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 9890
+        width: 456
+        height: 549
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 47.52107, y: 37.129395}
+        - {x: 35.52107, y: 66.129395}
+        - {x: 20.521069, y: 76.129395}
+        - {x: -5.4789314, y: 76.129395}
+        - {x: -2.4789314, y: 62.129395}
+        - {x: -62.47893, y: 43.129395}
+        - {x: -62.47893, y: -74.870605}
+        - {x: 27.521069, y: -74.870605}
+        - {x: 63.52107, y: -8.870605}
+        - {x: 63.52107, y: 36.129395}
+        - {x: 60.52107, y: 37.129395}
+      - - {x: 17.521069, y: -74.870605}
+        - {x: 16.521069, y: -71.870605}
+        - {x: 4.5210686, y: -71.870605}
+        - {x: 3.5210686, y: -74.870605}
+    - name: impact06_9
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 8934
+        width: 377
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: impact06_10
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 9009
+        width: 456
+        height: 547
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -36.47893, y: 75.05762}
+        - {x: -62.47893, y: 57.057617}
+        - {x: -62.47893, y: -65.94238}
+        - {x: -47.47893, y: -74.94238}
+        - {x: 17.521069, y: -74.94238}
+        - {x: 63.52107, y: -21.942383}
+        - {x: 63.52107, y: 63.057617}
+        - {x: 59.52107, y: 75.05762}
+    - name: impact06_11
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 8069
+        width: 348
+        height: 586
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -40.456535, y: 80.875}
+        - {x: -47.456535, y: 73.875}
+        - {x: -47.456535, y: -51.125}
+        - {x: -40.456535, y: -80.125}
+        - {x: 48.543465, y: -80.125}
+        - {x: 48.543465, y: 73.875}
+        - {x: 45.543465, y: 80.875}
+    - name: impact06_12
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 7185
+        width: 348
+        height: 588
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -47.456535, y: 81.98401}
+        - {x: -47.456535, y: -80.01599}
+        - {x: 48.543465, y: -80.01599}
+        - {x: 48.543465, y: 81.98401}
+    - name: impact06_13
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 6293
+        width: 332
+        height: 597
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -41.441597, y: 82.40857}
+        - {x: -45.441597, y: 78.40857}
+        - {x: -45.441597, y: -81.59143}
+        - {x: 46.558403, y: -81.59143}
+        - {x: 46.558403, y: 82.40857}
+    - name: impact06_14
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 5407
+        width: 332
+        height: 601
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 42.558403, y: 82.971436}
+        - {x: 22.558403, y: 82.971436}
+        - {x: 17.558403, y: 72.971436}
+        - {x: 3.558403, y: 75.971436}
+        - {x: -38.441597, y: 82.971436}
+        - {x: -40.441597, y: 34.971436}
+        - {x: -39.441597, y: 10.971436}
+        - {x: -45.441597, y: -6.0285645}
+        - {x: -45.441597, y: -82.028564}
+        - {x: 35.558403, y: -82.028564}
+        - {x: 43.558403, y: -75.028564}
+        - {x: 46.558403, y: -53.028564}
+        - {x: 46.558403, y: 73.971436}
+    - name: impact06_15
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 4523
+        width: 333
+        height: 560
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28.541336, y: 76.58057}
+        - {x: -45.541336, y: 65.58057}
+        - {x: -45.541336, y: 36.580566}
+        - {x: -37.541336, y: -67.41943}
+        - {x: -23.541336, y: -76.41943}
+        - {x: 46.458664, y: -76.41943}
+        - {x: 46.458664, y: 76.58057}
+    - name: impact06_16
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 3642
+        width: 333
+        height: 557
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 43.458664, y: -63.99121}
+        - {x: 40.458664, y: -62.99121}
+        - {x: 36.458664, y: -61.99121}
+        - {x: 31.458664, y: -61.99121}
+        - {x: 33.458664, y: -61.99121}
+        - {x: 37.458664, y: -60.99121}
+        - {x: 45.458664, y: -50.99121}
+        - {x: 46.458664, y: -44.99121}
+        - {x: 46.458664, y: 13.008789}
+        - {x: 37.458664, y: 76.00879}
+        - {x: 35.458664, y: 77.00879}
+        - {x: -35.541336, y: 77.00879}
+        - {x: -45.541336, y: 67.00879}
+        - {x: -45.541336, y: -75.99121}
+        - {x: 35.458664, y: -75.99121}
+        - {x: 41.458664, y: -74.99121}
+        - {x: 45.458664, y: -72.99121}
+    - name: impact06_17
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 2767
+        width: 296
+        height: 560
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -40.618668, y: 77.5755}
+        - {x: -40.618668, y: -73.4245}
+        - {x: -30.618668, y: -76.4245}
+        - {x: 41.381332, y: -76.4245}
+        - {x: 41.381332, y: 77.5755}
+    - name: impact06_18
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1882
+        width: 296
+        height: 564
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10.381332, y: 78.4115}
+        - {x: 8.381332, y: 72.4115}
+        - {x: 9.381332, y: 67.4115}
+        - {x: 12.381332, y: 64.4115}
+        - {x: -4.6186676, y: 78.4115}
+        - {x: -40.618668, y: 78.4115}
+        - {x: -40.618668, y: -37.5885}
+        - {x: -37.618668, y: -45.5885}
+        - {x: -35.618668, y: -50.5885}
+        - {x: -31.618668, y: -54.5885}
+        - {x: -24.618668, y: -62.5885}
+        - {x: -22.618668, y: -62.5885}
+        - {x: -33.618668, y: -61.5885}
+        - {x: -39.618668, y: -61.5885}
+        - {x: -32.618668, y: -76.5885}
+        - {x: 32.381332, y: -76.5885}
+        - {x: 41.381332, y: -73.5885}
+        - {x: 41.381332, y: 78.4115}
+    - name: impact06_19
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 1002
+        width: 326
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14.462402, y: 75.11279}
+        - {x: 7.4624023, y: 65.11279}
+        - {x: 6.4624023, y: 58.112793}
+        - {x: -11.537598, y: 75.11279}
+        - {x: -27.537598, y: 75.11279}
+        - {x: -41.537598, y: 68.11279}
+        - {x: -44.537598, y: 66.11279}
+        - {x: -44.537598, y: 7.112793}
+        - {x: -38.537598, y: -73.88721}
+        - {x: 45.462402, y: -73.88721}
+        - {x: 45.462402, y: 63.112793}
+        - {x: 23.462402, y: 75.11279}
+    - name: impact06_20
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 125
+        width: 383
+        height: 580
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 37.458664, y: -5.3666687}
+        - {x: 30.458664, y: -2.3666687}
+        - {x: 33.458664, y: -2.3666687}
+        - {x: 35.458664, y: -4.3666687}
+        - {x: 42.458664, y: -4.3666687}
+        - {x: 53.458664, y: -2.3666687}
+        - {x: 53.458664, y: 79.63333}
+        - {x: -19.541336, y: 79.63333}
+        - {x: -52.541336, y: 63.63333}
+        - {x: -52.541336, y: -79.36667}
+        - {x: 52.458664, y: -79.36667}
+        - {x: 53.458664, y: -75.36667}
+        - {x: 53.458664, y: -8.366669}
+        - {x: 49.458664, y: -3.3666687}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

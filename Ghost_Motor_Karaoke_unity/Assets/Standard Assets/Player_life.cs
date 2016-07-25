@@ -8,13 +8,11 @@ public class Player_life : MonoBehaviour {
 	public GameObject win;
 	AudioSource audio;
 
-	// Use this for initialization
 	void Start () {
 		win.GetComponent<Renderer>().enabled = false;
 		audio = GetComponent<AudioSource>();
 	}
 	
-	// Update is called once per frame
 	void Update () {
 		if( Input.GetKeyDown("l") ){
 			life();
