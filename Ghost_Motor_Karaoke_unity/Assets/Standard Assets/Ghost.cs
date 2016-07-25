@@ -54,18 +54,18 @@ public class Ghost : MonoBehaviour {
 
 			if (CollidePlayer0 < 4){
 				transform.position = pos;
-			}/* else if(CollidePlayer0 >= 4){
-				animator.SetTrigger ("ghosteat1");
-			}*/
+			} else if(CollidePlayer0 >= 4){
+				animator.SetTrigger ("eat02");
+			}
 
 		} else if(other.transform.name == "player1"){
 			CollidePlayer1++;
 
 			if (CollidePlayer1 < 4){
 				transform.position = pos;
-			} /*else if(CollidePlayer1 >= 4){
-				animator.SetTrigger ("ghosteat1");
-			}*/
+			} else if(CollidePlayer1 >= 4){
+				animator.SetTrigger ("eat02");
+			}
 		}
 	}
 }

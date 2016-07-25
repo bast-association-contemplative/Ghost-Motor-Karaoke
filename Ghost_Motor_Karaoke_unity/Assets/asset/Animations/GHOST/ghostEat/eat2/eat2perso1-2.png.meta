@@ -1,0 +1,287 @@
+fileFormatVersion: 2
+guid: 73015a86449244e6486d4614d311044f
+timeCreated: 1469445414
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: eat2perso1-2_0
+    21300002: eat2perso1-2_1
+    21300004: eat2perso1-2_2
+    21300006: eat2perso1-2_3
+    21300008: eat2perso1-2_4
+    21300010: eat2perso1-2_5
+    21300012: eat2perso1-2_6
+    21300014: eat2perso1-2_7
+    21300016: eat2perso1-2_8
+    21300018: eat2perso1-2_9
+    21300020: eat2perso1-2_10
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 280
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: eat2perso1-2_0
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 13747
+        width: 426
+        height: 668
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 61.108143, y: 56.750732}
+        - {x: 49.108143, y: 94.75073}
+        - {x: -37.891857, y: 94.75073}
+        - {x: -59.891857, y: 32.750732}
+        - {x: -59.891857, y: -68.24927}
+        - {x: -52.891857, y: -89.24927}
+        - {x: -14.891857, y: -90.24927}
+        - {x: 45.108143, y: -90.24927}
+        - {x: 56.108143, y: -86.24927}
+        - {x: 58.108143, y: -85.24927}
+        - {x: 61.108143, y: -78.24927}
+    - name: eat2perso1-2_1
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 12245
+        width: 430
+        height: 643
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -37.51654, y: 91.93262}
+        - {x: -59.51654, y: 85.93262}
+        - {x: -60.51654, y: 79.93262}
+        - {x: -60.51654, y: -86.06738}
+        - {x: 61.48346, y: -86.06738}
+        - {x: 61.48346, y: 91.93262}
+    - name: eat2perso1-2_2
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 10742
+        width: 459
+        height: 618
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -52.577606, y: 87.833496}
+        - {x: -64.57761, y: 53.833496}
+        - {x: -64.57761, y: -84.166504}
+        - {x: 65.42239, y: -84.166504}
+        - {x: 65.42239, y: 87.833496}
+    - name: eat2perso1-2_3
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 9233
+        width: 480
+        height: 596
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28.513992, y: 84.04712}
+        - {x: -54.513992, y: 57.04712}
+        - {x: -49.513992, y: 12.047119}
+        - {x: -67.51399, y: 16.04712}
+        - {x: -67.51399, y: -81.95288}
+        - {x: 64.48601, y: -81.95288}
+        - {x: 68.48601, y: -55.95288}
+        - {x: 68.48601, y: 28.04712}
+        - {x: 30.486008, y: 84.04712}
+    - name: eat2perso1-2_4
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 7720
+        width: 566
+        height: 540
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 80.42748, y: -49.86377}
+        - {x: 80.42748, y: 69.13623}
+        - {x: 55.427483, y: 77.13623}
+        - {x: -60.572517, y: 77.13623}
+        - {x: -79.57252, y: 32.13623}
+        - {x: -79.57252, y: -40.86377}
+        - {x: -47.572517, y: -71.86377}
+        - {x: -34.572517, y: -73.86377}
+        - {x: 33.427483, y: -73.86377}
+        - {x: 35.427483, y: -64.86377}
+        - {x: 5.4274826, y: -46.86377}
+        - {x: 43.427483, y: -62.86377}
+    - name: eat2perso1-2_5
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 6207
+        width: 423
+        height: 590
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -59.550888, y: -82.27478}
+        - {x: 60.449112, y: -82.27478}
+        - {x: 60.449112, y: -41.27478}
+        - {x: 55.449112, y: -13.27478}
+        - {x: -42.550888, y: -13.27478}
+        - {x: -51.550888, y: -14.27478}
+        - {x: -59.550888, y: -21.27478}
+    - name: eat2perso1-2_6
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 4697
+        width: 384
+        height: 590
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6.1374054, y: -6.842163}
+        - {x: -27.862595, y: -6.842163}
+        - {x: -41.862595, y: -8.842163}
+        - {x: -53.862595, y: -27.842163}
+        - {x: -53.862595, y: -52.842163}
+        - {x: -46.862595, y: -63.842163}
+        - {x: -42.862595, y: -65.84216}
+        - {x: -46.862595, y: -73.84216}
+        - {x: -45.862595, y: -81.84216}
+        - {x: 41.137405, y: -81.84216}
+        - {x: 55.137405, y: -75.84216}
+        - {x: 55.137405, y: -37.842163}
+        - {x: 36.137405, y: -9.842163}
+    - name: eat2perso1-2_7
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 3173
+        width: 420
+        height: 590
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31.08015, y: -12.346069}
+        - {x: -59.08015, y: -34.34607}
+        - {x: -59.08015, y: -70.34607}
+        - {x: -56.08015, y: -81.34607}
+        - {x: -54.08015, y: -82.34607}
+        - {x: 37.91985, y: -82.34607}
+        - {x: 59.91985, y: -78.34607}
+        - {x: 59.91985, y: -36.34607}
+        - {x: 45.91985, y: -12.346069}
+    - name: eat2perso1-2_8
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 1660
+        width: 466
+        height: 590
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 56.515266, y: -54.75699}
+        - {x: -61.484734, y: -54.75699}
+        - {x: -65.48473, y: -62.75699}
+        - {x: -65.48473, y: -81.75699}
+        - {x: -19.484734, y: -81.75699}
+        - {x: 66.51527, y: -78.75699}
+        - {x: 66.51527, y: -64.75699}
+    - name: eat2perso1-2_9
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 147
+        width: 445
+        height: 590
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 48.4542, y: -31.167938}
+        - {x: -59.5458, y: -31.167938}
+        - {x: -62.5458, y: -37.16794}
+        - {x: -62.5458, y: -81.16794}
+        - {x: -61.5458, y: -83.16794}
+        - {x: 36.4542, y: -83.16794}
+        - {x: 52.4542, y: -82.16794}
+        - {x: 55.4542, y: -78.16794}
+        - {x: 63.4542, y: -69.16794}
+        - {x: 63.4542, y: -45.16794}
+    - name: eat2perso1-2_10
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 9233
+        width: 480
+        height: 596
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28.513992, y: 84.04712}
+        - {x: -54.513992, y: 57.04712}
+        - {x: -49.513992, y: 12.047119}
+        - {x: -67.51399, y: 16.04712}
+        - {x: -67.51399, y: -81.95288}
+        - {x: 64.48601, y: -81.95288}
+        - {x: 68.48601, y: -55.95288}
+        - {x: 68.48601, y: 28.04712}
+        - {x: 30.486008, y: 84.04712}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

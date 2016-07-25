@@ -1,0 +1,290 @@
+fileFormatVersion: 2
+guid: e0cb50af7f393409dbe9ba80c19c670a
+timeCreated: 1469445756
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: eat2Perso_1
+    21300002: eat2Perso_2
+    21300004: eat2Perso_3
+    21300006: eat2Perso_4
+    21300008: eat2Perso_5
+    21300010: eat2Perso_6
+    21300012: eat2Perso_7
+    21300014: eat2Perso_8
+    21300016: eat2Perso_9
+    21300018: eat2Perso_10
+    21300020: eat2Perso_11
+    21300022: eat2Perso_12
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 280
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: eat2Perso_1
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 12088
+        width: 549
+        height: 590
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -65.01399, y: -36.04077}
+        - {x: -81.01399, y: -40.04077}
+        - {x: -81.01399, y: -81.04077}
+        - {x: 56.986008, y: -81.04077}
+        - {x: 81.98601, y: -78.04077}
+        - {x: 81.98601, y: -52.04077}
+        - {x: 70.98601, y: -36.04077}
+    - name: eat2Perso_2
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 10562
+        width: 559
+        height: 590
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 81.46819, y: -60.963135}
+        - {x: 59.468193, y: -57.963135}
+        - {x: 56.468193, y: -57.963135}
+        - {x: 10.468193, y: -62.963135}
+        - {x: -18.531807, y: -57.963135}
+        - {x: -65.53181, y: -57.963135}
+        - {x: -82.53181, y: -64.963135}
+        - {x: -82.53181, y: -79.963135}
+        - {x: -3.531807, y: -81.963135}
+        - {x: 58.468193, y: -81.963135}
+        - {x: 83.46819, y: -72.963135}
+        - {x: 83.46819, y: -63.963135}
+    - name: eat2Perso_3
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 9071
+        width: 555
+        height: 590
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -52.93512, y: -58.054688}
+        - {x: -81.93512, y: -64.05469}
+        - {x: -81.93512, y: -80.05469}
+        - {x: -79.93512, y: -83.05469}
+        - {x: 83.06488, y: -83.05469}
+        - {x: 83.06488, y: -61.054688}
+        - {x: 52.06488, y: -58.054688}
+    - name: eat2Perso_4
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 7570
+        width: 528
+        height: 590
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -40.89949, y: -54.0979}
+        - {x: -77.89949, y: -69.0979}
+        - {x: -77.89949, y: -80.0979}
+        - {x: -60.89949, y: -84.0979}
+        - {x: 79.10051, y: -84.0979}
+        - {x: 79.10051, y: -69.0979}
+        - {x: 17.10051, y: -54.0979}
+    - name: eat2Perso_5
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 6065
+        width: 508
+        height: 590
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.06234, y: -53.3219}
+        - {x: -75.06234, y: -66.3219}
+        - {x: -75.06234, y: -79.3219}
+        - {x: -57.06234, y: -85.3219}
+        - {x: 75.93766, y: -85.3219}
+        - {x: 75.93766, y: -66.3219}
+        - {x: 38.93766, y: -53.3219}
+    - name: eat2Perso_6
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 5023
+        width: 508
+        height: 590
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -47.110687, y: -51.884277}
+        - {x: -70.11069, y: -61.884277}
+        - {x: -75.11069, y: -72.88428}
+        - {x: -75.11069, y: -84.88428}
+        - {x: 75.88931, y: -84.88428}
+        - {x: 75.88931, y: -68.88428}
+        - {x: 43.889313, y: -51.884277}
+    - name: eat2Perso_7
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 4082
+        width: 410
+        height: 590
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -60.37659, y: -82.13489}
+        - {x: -33.37659, y: -84.13489}
+        - {x: 61.62341, y: -84.13489}
+        - {x: 61.62341, y: -73.13489}
+        - {x: 35.62341, y: -59.134888}
+        - {x: -45.37659, y: -59.134888}
+        - {x: -60.37659, y: -63.134888}
+    - name: eat2Perso_8
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 3295
+        width: 498
+        height: 590
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26.47837, y: -70.93005}
+        - {x: -70.47837, y: -71.93005}
+        - {x: -73.47837, y: -75.93005}
+        - {x: -73.47837, y: -82.93005}
+        - {x: -55.47837, y: -85.93005}
+        - {x: 47.52163, y: -85.93005}
+        - {x: 74.52163, y: -83.93005}
+        - {x: 74.52163, y: -70.93005}
+    - name: eat2Perso_9
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 2575
+        width: 227
+        height: 590
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 34.56234, y: -84.4491}
+        - {x: 34.56234, y: -74.4491}
+        - {x: 33.56234, y: -72.4491}
+        - {x: -33.43766, y: -72.4491}
+        - {x: -33.43766, y: -85.4491}
+        - {x: -30.43766, y: -87.4491}
+        - {x: -16.43766, y: -87.4491}
+        - {x: -11.43766, y: -86.4491}
+        - {x: 28.56234, y: -85.4491}
+        - {x: 33.56234, y: -84.4491}
+    - name: eat2Perso_10
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 1726
+        width: 180
+        height: 590
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.631042, y: -72.044525}
+        - {x: -26.631042, y: -73.044525}
+        - {x: -26.631042, y: -87.044525}
+        - {x: 15.3689575, y: -87.044525}
+        - {x: 26.368958, y: -84.044525}
+        - {x: 27.368958, y: -82.044525}
+        - {x: 27.368958, y: -72.044525}
+    - name: eat2Perso_11
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 945
+        width: 163
+        height: 590
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24.029266, y: -87.068695}
+        - {x: 22.970734, y: -87.068695}
+        - {x: 24.970734, y: -85.068695}
+        - {x: 24.970734, y: -75.068695}
+        - {x: 5.9707336, y: -75.068695}
+        - {x: -24.029266, y: -78.068695}
+    - name: eat2Perso_12
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 167
+        width: 122
+        height: 590
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.108147, y: -77.20738}
+        - {x: -18.108147, y: -87.20738}
+        - {x: 18.891853, y: -87.20738}
+        - {x: 18.891853, y: -77.20738}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

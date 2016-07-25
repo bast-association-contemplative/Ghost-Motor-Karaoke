@@ -1,0 +1,439 @@
+fileFormatVersion: 2
+guid: a6dca64846d034001960c32d10300b04
+timeCreated: 1469444490
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: eat2Ghost_0
+    21300002: eat2Ghost_1
+    21300004: eat2Ghost_2
+    21300006: eat2Ghost_3
+    21300008: eat2Ghost_4
+    21300010: eat2Ghost_5
+    21300012: eat2Ghost_6
+    21300014: eat2Ghost_7
+    21300016: eat2Ghost_8
+    21300018: eat2Ghost_9
+    21300020: eat2Ghost_10
+    21300022: eat2Ghost_11
+    21300024: eat2Ghost_12
+    21300026: eat2Ghost_13
+    21300028: eat2Ghost_14
+    21300030: eat2Ghost_15
+    21300032: eat2Ghost_16
+    21300034: eat2Ghost_17
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 7
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 65
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: eat2Ghost_0
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 13584
+        width: 746
+        height: 831
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 26.9031, y: 233.41504}
+        - {x: 20.9031, y: 235.41504}
+        - {x: -16.0969, y: 235.41504}
+        - {x: -67.0969, y: 231.41504}
+        - {x: -105.0969, y: 131.41504}
+        - {x: -105.0969, y: 75.41504}
+        - {x: -15.096901, y: 59.41504}
+        - {x: -11.096901, y: 71.41504}
+        - {x: -6.096901, y: 105.41504}
+        - {x: -11.096901, y: 4.415039}
+        - {x: -7.096901, y: 2.415039}
+        - {x: 90.9031, y: 2.415039}
+        - {x: 106.9031, y: 5.415039}
+        - {x: 106.9031, y: 90.41504}
+        - {x: 55.9031, y: 141.41504}
+    - name: eat2Ghost_1
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 12453
+        width: 767
+        height: 892
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 45.050446, y: 251.88403}
+        - {x: -19.949554, y: 251.88403}
+        - {x: -64.949554, y: 236.88403}
+        - {x: -107.949554, y: 144.88403}
+        - {x: -107.949554, y: 46.884033}
+        - {x: -63.949554, y: 0.8840332}
+        - {x: 98.050446, y: 0.8840332}
+        - {x: 106.050446, y: 2.8840332}
+        - {x: 109.050446, y: 3.8840332}
+        - {x: 109.050446, y: 118.88403}
+    - name: eat2Ghost_2
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 11321
+        width: 742
+        height: 871
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 85.41059, y: 70.020996}
+        - {x: 82.41059, y: 70.020996}
+        - {x: 84.41059, y: 70.020996}
+        - {x: 91.41059, y: 75.020996}
+        - {x: 80.41059, y: 152.021}
+        - {x: 15.410591, y: 246.021}
+        - {x: -43.58941, y: 246.021}
+        - {x: -95.58941, y: 230.021}
+        - {x: -104.58941, y: 185.021}
+        - {x: -104.58941, y: 77.020996}
+        - {x: -19.589409, y: 78.020996}
+        - {x: -17.589409, y: 79.020996}
+        - {x: -17.589409, y: 89.020996}
+        - {x: -7.589409, y: 9.020996}
+        - {x: -0.5894089, y: 1.0209961}
+        - {x: 78.41059, y: 1.0209961}
+        - {x: 105.41059, y: 4.020996}
+        - {x: 105.41059, y: 79.020996}
+        - {x: 86.41059, y: 71.020996}
+    - name: eat2Ghost_3
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 10192
+        width: 730
+        height: 637
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -0.089408875, y: 180}
+        - {x: -87.08941, y: 180}
+        - {x: -103.08941, y: 143}
+        - {x: -103.08941, y: 16}
+        - {x: -99.08941, y: 7}
+        - {x: -21.089409, y: 14}
+        - {x: -15.089409, y: 37}
+        - {x: -17.089409, y: 62}
+        - {x: 3.9105911, y: 78}
+        - {x: 7.910591, y: 84}
+        - {x: 13.910591, y: 82}
+        - {x: -2.0894089, y: 72}
+        - {x: -6.089409, y: 11}
+        - {x: 2.9105911, y: 1}
+        - {x: 97.91059, y: 1}
+        - {x: 103.91059, y: 11}
+        - {x: 103.91059, y: 93}
+        - {x: 19.910591, y: 166}
+    - name: eat2Ghost_4
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 9064
+        width: 705
+        height: 566
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 47.918083, y: 160.22095}
+        - {x: -49.081917, y: 160.22095}
+        - {x: -97.08192, y: 129.22095}
+        - {x: -99.08192, y: 104.22095}
+        - {x: -99.08192, y: 11.220947}
+        - {x: -93.08192, y: 8.220947}
+        - {x: -42.081917, y: 3.2209473}
+        - {x: -22.081917, y: 7.2209473}
+        - {x: -18.081917, y: 12.220947}
+        - {x: -17.081917, y: 53.220947}
+        - {x: 5.918083, y: 71.22095}
+        - {x: 12.918083, y: 72.22095}
+        - {x: 16.918083, y: 74.22095}
+        - {x: 21.918083, y: 74.22095}
+        - {x: 17.918083, y: 74.22095}
+        - {x: 15.918083, y: 72.22095}
+        - {x: 14.918083, y: 68.22095}
+        - {x: 8.918083, y: 71.22095}
+        - {x: 6.918083, y: 71.22095}
+        - {x: 2.9180832, y: 69.22095}
+        - {x: -1.0819168, y: 8.220947}
+        - {x: 20.918083, y: 1.2209473}
+        - {x: 59.918083, y: 1.2209473}
+        - {x: 89.91808, y: 2.2209473}
+        - {x: 100.91808, y: 5.2209473}
+        - {x: 100.91808, y: 98.22095}
+        - {x: 88.91808, y: 145.22095}
+    - name: eat2Ghost_5
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 7934
+        width: 713
+        height: 601
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 22.60839, y: 169.80908}
+        - {x: -56.39161, y: 169.80908}
+        - {x: -96.39161, y: 137.80908}
+        - {x: -100.39161, y: 98.80908}
+        - {x: -100.39161, y: 19.809082}
+        - {x: -95.39161, y: 16.809082}
+        - {x: -23.39161, y: 13.809082}
+        - {x: -26.39161, y: -0.19091797}
+        - {x: 78.60839, y: -0.19091797}
+        - {x: 98.60839, y: 3.809082}
+        - {x: 101.60839, y: 5.809082}
+        - {x: 101.60839, y: 109.80908}
+    - name: eat2Ghost_6
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 6812
+        width: 729
+        height: 792
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -45.835663, y: 223.62537}
+        - {x: -52.835663, y: 221.62537}
+        - {x: -102.83566, y: 78.62537}
+        - {x: -102.83566, y: 69.62537}
+        - {x: -31.835663, y: 45.625366}
+        - {x: -21.835663, y: 48.625366}
+        - {x: -24.835663, y: 2.6253662}
+        - {x: -13.835663, y: -0.3746338}
+        - {x: 104.16434, y: -0.3746338}
+        - {x: 104.16434, y: 140.62537}
+        - {x: 63.164337, y: 223.62537}
+    - name: eat2Ghost_7
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 6781
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: eat2Ghost_8
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 5675
+        width: 721
+        height: 863
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -40.617386, y: 244.31262}
+        - {x: -101.617386, y: 184.31262}
+        - {x: -101.617386, y: 48.312622}
+        - {x: -68.617386, y: 0.31262207}
+        - {x: 93.382614, y: 0.31262207}
+        - {x: 102.382614, y: 4.312622}
+        - {x: 102.382614, y: 150.31262}
+        - {x: 53.382614, y: 244.31262}
+    - name: eat2Ghost_9
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 4545
+        width: 646
+        height: 862
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9.366135, y: 243.83008}
+        - {x: -61.633865, y: 238.83008}
+        - {x: -90.633865, y: 231.83008}
+        - {x: -90.633865, y: 136.83008}
+        - {x: -79.633865, y: 136.83008}
+        - {x: -57.633865, y: 1.8300781}
+        - {x: -53.633865, y: -0.16992188}
+        - {x: 92.366135, y: -0.16992188}
+        - {x: 92.366135, y: 239.83008}
+        - {x: 72.366135, y: 243.83008}
+    - name: eat2Ghost_10
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 3407
+        width: 673
+        height: 888
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -92.54795, y: 251.3971}
+        - {x: -94.54795, y: 239.3971}
+        - {x: -94.54795, y: 142.3971}
+        - {x: -41.54795, y: 77.397095}
+        - {x: -38.54795, y: 74.397095}
+        - {x: -48.54795, y: 77.397095}
+        - {x: -55.54795, y: 76.397095}
+        - {x: -65.54795, y: 6.3970947}
+        - {x: -36.54795, y: 0.39709473}
+        - {x: 85.45205, y: 0.39709473}
+        - {x: 96.45205, y: 27.397095}
+        - {x: 96.45205, y: 251.3971}
+    - name: eat2Ghost_11
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 2302
+        width: 573
+        height: 816
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 69.45405, y: 222.95654}
+        - {x: 49.45405, y: 230.95654}
+        - {x: -71.54595, y: 230.95654}
+        - {x: -80.54595, y: 214.95654}
+        - {x: -80.54595, y: -0.04345703}
+        - {x: 50.45405, y: -0.04345703}
+        - {x: 58.45405, y: 6.956543}
+        - {x: 82.45405, y: 118.95654}
+        - {x: 82.45405, y: 192.95654}
+    - name: eat2Ghost_12
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 1170
+        width: 415
+        height: 495
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -58.355644, y: -0.16433716}
+        - {x: 59.644356, y: -0.16433716}
+        - {x: 59.644356, y: 38.835663}
+        - {x: 48.644356, y: 127.83566}
+        - {x: -1.3556442, y: 140.83566}
+        - {x: -25.355644, y: 140.83566}
+        - {x: -58.355644, y: 87.83566}
+    - name: eat2Ghost_13
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 474
+        width: 14
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: eat2Ghost_14
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 456
+        width: 21
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: eat2Ghost_15
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 211
+        width: 13
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: eat2Ghost_16
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 35
+        width: 372
+        height: 428
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5.2137833, y: 122.14785}
+        - {x: -39.213783, y: 71.14785}
+        - {x: -52.213783, y: 25.147852}
+        - {x: -52.213783, y: 2.147852}
+        - {x: -47.213783, y: 0.14785194}
+        - {x: 53.786217, y: 0.14785194}
+        - {x: 53.786217, y: 112.14785}
+        - {x: 37.786217, y: 122.14785}
+    - name: eat2Ghost_17
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 80
+        width: 7
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

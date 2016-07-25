@@ -33,7 +33,7 @@ public class Player0 : MonoBehaviour {
 
 		if(collide >= 4){
 			player1Animator.SetTrigger ("win02");
-			animator.SetTrigger ("lose");
+			animator.SetTrigger ("eat2");
 		}
 
 	}
