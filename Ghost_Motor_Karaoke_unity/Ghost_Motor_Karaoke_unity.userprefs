@@ -1,13 +1,10 @@
 ﻿<Properties StartupItem="Assembly-CSharp.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Standard Assets/Player1.cs">
+  <MonoDevelop.Ide.Workbench>
     <Files>
-      <File FileName="Assets/Standard Assets/Player1.cs" Line="23" Column="17" />
-      <File FileName="Assets/Standard Assets/Player0.cs" Line="12" Column="2" />
-      <File FileName="Assets/Standard Assets/Player_life.cs" Line="9" Column="6" />
-      <File FileName="Assets/Scripts/scream_start.js" Line="2" Column="1" />
-      <File FileName="Assets/Scripts/getMic.js" Line="89" Column="1" />
-      <File FileName="Assets/Standard Assets/delay.cs" Line="15" Column="1" />
+      <File FileName="Assets/Scripts/scream_start.js" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/getMic.js" Line="1" Column="1" />
+      <File FileName="Assets/Standard Assets/Ghost.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

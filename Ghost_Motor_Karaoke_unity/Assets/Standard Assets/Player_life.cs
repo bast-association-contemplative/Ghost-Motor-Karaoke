@@ -13,16 +13,14 @@ public class Player_life : MonoBehaviour {
 		audio = GetComponent<AudioSource>();
 	}
 	
-	void Update () {
-	}
-
 	public void life(){
 		if (lifeSate >= 0) {
+
 			transform.GetChild (lifeSate).gameObject.SetActive(false);
 			lifeSate--;
-			if (lifeSate == -1) {
-				Debug.Log (transform.parent.name + " PERDU");
 
+			if (lifeSate == -1) {
+				
 				if (audio.mute){
 					audio.mute = false;
 				}

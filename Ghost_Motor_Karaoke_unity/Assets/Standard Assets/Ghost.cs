@@ -37,13 +37,7 @@ public class Ghost : MonoBehaviour {
 
 	void OnCollisionEnter2D(Collision2D other) {
 
-		Debug.Log ("Ghost collide with : " + other.transform.name);
-
 		if (other.transform.name == "player0" || other.transform.name == "player1") {
-
-			//animator.SetTrigger("ghosteat1");
-			//WAIT
-
 			audio.clip = impactSound[Random.Range(0, impactSound.Length)];
 			audio.Play();
 		}
@@ -58,7 +52,7 @@ public class Ghost : MonoBehaviour {
 				animator.SetTrigger ("eat02");
 			}
 
-		} else if(other.transform.name == "player1"){
+		}else if(other.transform.name == "player1"){
 			CollidePlayer1++;
 
 			if (CollidePlayer1 < 4){

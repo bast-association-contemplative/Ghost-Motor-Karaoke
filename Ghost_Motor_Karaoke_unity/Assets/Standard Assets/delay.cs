@@ -5,6 +5,8 @@ using System.Collections;
 
 public class delay : MonoBehaviour {
 
+	// SCRIPT USE TO WAIT COUNT DOWN SOUND IS FINISH BEFORE PLAY "TENSION" SOUND
+
 	new AudioSource audio;
 
 	public AudioClip engineStartClip;
@@ -21,8 +23,5 @@ public class delay : MonoBehaviour {
 		yield return new WaitForSeconds(audio.clip.length);
 		audio.clip = engineLoopClip;
 		audio.Play();
-	}
-
-	void Update(){
 	}
 }

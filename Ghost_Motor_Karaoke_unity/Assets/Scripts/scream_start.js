@@ -25,8 +25,7 @@ function Update () {
 	Debug.Log(OpenBCIEvent);
 
 	if(OpenBCIEvent > 50){
-		//Application.LoadLevel ("motor Karaoke");
-		 SceneManager.LoadScene("motor Karaoke");
+		SceneManager.LoadScene("motor Karaoke");
 	} else if(OpenBCIEvent < -50){
 		SceneManager.LoadScene("motor Karaoke");
 	}
