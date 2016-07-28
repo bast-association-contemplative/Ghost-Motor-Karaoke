@@ -1,5 +1,6 @@
 ﻿using UnityEngine;
 using System.Collections;
+using UnityEngine.SceneManagement;
 
 public class Player1 : MonoBehaviour {
 
@@ -20,6 +21,10 @@ public class Player1 : MonoBehaviour {
 	//IMPACT ANIMATION ARRAY
 	string[] arr = new string[]{"impact1","impact2","impact3","impact4","impact5","impact6"};
 
+	private float finishTime = 0.0F;
+	private float restartTime = 20.0F;
+	private bool win = false;
+
 	void Start () {
 		thisPlayerAnimator = GetComponent<Animator>();
 		player0Animator = player0.GetComponent<Animator> ();
@@ -29,6 +34,18 @@ public class Player1 : MonoBehaviour {
 		if(collide >= 4){
 			player0Animator.SetTrigger ("win01");
 			thisPlayerAnimator.SetTrigger ("eat2");
+
+			if (win == false) {
+				finishTime = Time.time + restartTime;
+				Debug.Log (finishTime);
+			}
+			//Debug.Log (Time.time);
+			win = true;
+		}
+
+		if (win == true && Time.time > finishTime) {
+			Debug.Log("RESTART");
+			SceneManager.LoadScene("Intro");
 		}
 	}
 

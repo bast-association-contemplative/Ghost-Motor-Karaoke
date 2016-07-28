@@ -21,6 +21,10 @@ public var anim_audio_array : AudioClip[];
 private var ghostCollide0 : int;
 private var ghostCollide1 : int;
 
+//FREAZE THE GHOST DURING THE COUNT DOWN EXPERIMENTALE
+var fireRate = 4.5;
+private var nextFire = 0.0;
+
 function Awake() {
 	ghost_script = this.GetComponent(Ghost); 			//Don't forget to place the 'Ghost' file inside the 'Standard Assets' folder  
 	player0anim = player0.GetComponent(Animator);
@@ -70,17 +74,18 @@ function Update () {
 
 		Debug.Log("DELAY NOW");
 		ghostCollide0 = ghost_script.CollidePlayer0;
+		nextFire = Time.time + fireRate;
 
 	} else if(ghostCollide1 < ghost_script.CollidePlayer1){
 
 		Debug.Log("DELAY NOW");
 		ghostCollide1 = ghost_script.CollidePlayer1;
-
+		nextFire = Time.time + fireRate;
 	}
 
-	if(PureDataEvent > 10){
+	if(PureDataEvent > 10 && Time.time > nextFire){
 		ghost_script.move(0.1f, -0.5f);
-	} else if(PureDataEvent < -10){
+	} else if(PureDataEvent < -10 && Time.time > nextFire){
 		ghost_script.move(-0.1f, 0.5f);
 	}
 }	
