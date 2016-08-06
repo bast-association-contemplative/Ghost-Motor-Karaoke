@@ -12,12 +12,9 @@ Human voice powered game. The louder and the longer you screem the better it is.
 - Game development : Bastien Didier
 - Sound design : Gangpol
 
-###### Ghost Motor Karoke Installation
+###### Ghost Motor Karoke Gallery
 
 ![GMK Installation Bucheon](ReadMe_assets/gmk_bucheon2.jpg)
 ![GMK Installation Bucheon](ReadMe_assets/gmk_bucheon1.jpg)
-
-###### Ghost Motor Karaoke Animation
-
 ![GMK Anim](ReadMe_assets/gmk.gif)
 ![GMK Anim](ReadMe_assets/gmk_anim.gif)
