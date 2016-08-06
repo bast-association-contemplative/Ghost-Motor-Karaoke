@@ -7,7 +7,9 @@ private var broadcastPort : int = 57131;
 private var oscHandler : Osc;
 
 private var OpenBCIEvent : int = 0;
-	 	
+
+public var SoundLvl = 40;
+	 		 		 	
 public function Start ()
 {	
 	var udp : UDPPacketIO = GetComponent(UDPPacketIO);
@@ -22,11 +24,11 @@ Debug.Log("Running");
 
 function Update () {
 
-	Debug.Log(OpenBCIEvent);
+	//Debug.Log(OpenBCIEvent);
 
-	if(OpenBCIEvent > 50){
+	if(OpenBCIEvent > SoundLvl){
 		SceneManager.LoadScene("motor Karaoke");
-	} else if(OpenBCIEvent < -50){
+	} else if(OpenBCIEvent < -SoundLvl){
 		SceneManager.LoadScene("motor Karaoke");
 	}
 }	

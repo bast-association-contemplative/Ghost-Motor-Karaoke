@@ -21,7 +21,7 @@ public var anim_audio_array : AudioClip[];
 private var ghostCollide0 : int;
 private var ghostCollide1 : int;
 
-//FREAZE THE GHOST DURING THE COUNT DOWN EXPERIMENTALE
+//!\ FREEZE THE GHOST DURING THE COUNT DOWN EXPERIMENTAL 
 var fireRate = 4.5;
 private var nextFire = 0.0;
 
@@ -72,13 +72,13 @@ function Update () {
 
 	if(ghostCollide0 < ghost_script.CollidePlayer0){
 
-		Debug.Log("DELAY NOW");
+		//DELAY
 		ghostCollide0 = ghost_script.CollidePlayer0;
 		nextFire = Time.time + fireRate;
 
 	} else if(ghostCollide1 < ghost_script.CollidePlayer1){
 
-		Debug.Log("DELAY NOW");
+		//DELAY
 		ghostCollide1 = ghost_script.CollidePlayer1;
 		nextFire = Time.time + fireRate;
 	}

@@ -5,7 +5,7 @@ using UnityEngine.SceneManagement;
 public class Load_lvl : MonoBehaviour {
 
 	void Update () {
-		//USE SPACE FOR LOAD GMK SCENE
+		//USE SPACE BAR FOR LOAD GMK SCENE
 		if(Input.GetKeyDown(KeyCode.Space)){
 			if (SceneManager.GetActiveScene().name == "Intro") {
 				SceneManager.LoadScene("motor Karaoke");

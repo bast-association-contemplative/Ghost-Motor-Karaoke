@@ -39,7 +39,6 @@ public class Player0 : MonoBehaviour {
 				finishTime = Time.time + restartTime;
 				Debug.Log (finishTime);
 			}
-			//Debug.Log (Time.time);
 			win = true;
 		}
 

@@ -39,12 +39,11 @@ public class Player1 : MonoBehaviour {
 				finishTime = Time.time + restartTime;
 				Debug.Log (finishTime);
 			}
-			//Debug.Log (Time.time);
 			win = true;
 		}
 
 		if (win == true && Time.time > finishTime) {
-			Debug.Log("RESTART");
+			//Debug.Log("RESTART");
 			SceneManager.LoadScene("Intro");
 		}
 	}
